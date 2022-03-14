@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PuangBali
+- 👋 Hi, I’m @Andi.Dulhanuddin
 - 👀 I’m interested in Coding and Technology explore 
 - 🌱 I’m currently learning Data science and big data management
 - 💞️ I’m looking to collaborate on both
